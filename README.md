@@ -38,7 +38,8 @@ System.Web.Mobile => System.Windows.Forms, Version=4.0.0.0, Culture=neutral, Pub
 
 You can also use a **RegExp**:
 
-```C:\Windows\Microsoft.NET\Framework\v4.0.30319>whoneeds ^system.xml$
+```
+C:\Windows\Microsoft.NET\Framework\v4.0.30319>whoneeds ^system.xml$
 caspol => System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
 ComSvcConfig => System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
 DataSvcUtil => System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
