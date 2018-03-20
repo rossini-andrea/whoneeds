@@ -1,6 +1,6 @@
 # whoneeds - A different kind of dependency inspector
 
-`whoneeds.exe` is a command line utility to report dependencies on a .Net library.
+`whoneeds.exe` is a command line utility to report dependants on a .Net library.
 The main difference is in the approach, rather than opening an assembly and
 reporting all its dependencies, it scans all the assemblies in a folder printing
 all those depending upon a specified input pattern.
